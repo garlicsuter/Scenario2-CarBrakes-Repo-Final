@@ -1,2 +1,2 @@
-# Scenario2-CarBrakes-Repo-Final
- Completed Version of the Scenario 2 Starter Project
+# Scenario2-CarBrakes-Repo-Starter
+ Starter Unity project to create a "Change the brakes" VR simulation
